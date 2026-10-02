@@ -1,7 +1,7 @@
 ---
 title: Crime Stats IE
 category: Crime
-owner: ["Manguard Plus"]
+owner: ["Brian Fox"]
 description: Basic crime statistics website.
 status: true
 link: https://www.crimestats.ie/
