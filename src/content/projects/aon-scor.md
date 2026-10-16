@@ -1,11 +1,11 @@
 ﻿---
 title: Aon Scór
 category: Sport
-owner: ["u/_mac_ie on Reddit"]
-description: GAA results and statistics.
+owner: ["Rob Leonard", "Rory McEvoy"]
+description: Live scores, fixtures, results and championship brackets for all intercounty GAA codes.
 status: true
-link: https://www.aon-scor.com/
+link: https://aon-scor.com/
 foundingYear: 2026
 ---
 
-Live results and statistics for hurling and Gaelic football.
+Aon Scór covers intercounty hurling, football, camogie and ladies football. Follow live scores, fixtures, results and championship brackets, plus lineups and player stats for every match.
